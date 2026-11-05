@@ -39,6 +39,8 @@ OpenAI 舊 Codex 文件網址目前會導向部分上述頁面；本手冊有區
 
 ## 研究用例
 
-新增 LaTeX 國科會計畫書與 PDF 輸出、GRB 歷年公開成果報告蒐集、PDF 證據分析、Semantic Scholar API 論文檢索。範例為操作說明，本次未實際蒐集報告、呼叫文獻搜尋 API 或製作申請文件。
+新增 LaTeX 國科會計畫書與 PDF 輸出、國科會學術補助獎勵查詢與公開成果報告蒐集、PDF 證據分析、Semantic Scholar API 論文檢索。範例為操作說明，本次未實際蒐集報告、呼叫文獻搜尋 API 或製作申請文件。
 
 環境設定用例：檢查系統與版本、安裝程式與依賴、設定 PATH 及環境變數、驗證工作流程、記錄重建步驟。
+
+計畫查詢入口：https://wsts.nstc.gov.tw/STSWeb/Award/AwardMultiQuery.aspx 。章節沿用 #grb 錨點以維持既有連結，內容以國科會查詢頁為準。
