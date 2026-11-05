@@ -24,7 +24,7 @@ OpenAI 舊 Codex 文件網址目前會導向部分上述頁面；本手冊有區
 
 - `assets/workshop.png`：內建 imagegen 生成，插畫概念為紙雕 Agent 工作坊（路徑、工具、驗證關卡）。完整提示見 `docs/assets.md`。
 - `assets/agent-loop.png`：Matplotlib，220 dpi，概念流程圖；非產品內部架構。
-- 教學對話是明確標示的示意。電腦控制工具禁止操作 Codex App，因此本版沒有真實產品對話截圖。
+- 教學對話是明確標示的示意。電腦控制工具禁止操作 Codex App，因此未擷取本機畫面；網站另外收錄來自 OpenAI 官方更新紀錄的歷史介面截圖。
 - 網站瀏覽器驗證截圖見 `docs/`，不包含私人桌面或憑證。
 
 ## 更新迴圈

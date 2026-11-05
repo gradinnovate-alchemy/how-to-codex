@@ -11,3 +11,13 @@ Use case: illustration-story. Asset: educational website editorial cover, landsc
 ## Agent loop
 
 Matplotlib output from scripts/diagram.py, 220 dpi. Labels are English to preserve readable deterministic diagram rendering; surrounding chapter explains all steps in Traditional Chinese. High-resolution PNG opens separately on mobile.
+
+## Official Codex interface screenshots
+
+Source page: https://learn.chatgpt.com/docs/changelog (March 2026 historical app releases). Retrieved 2026-11-05. Images remain unmodified. Copyright belongs to OpenAI; included as attributed interface references, not generated illustrations or screenshots of the user's computer.
+
+- assets/codex-window.webp: https://learn.chatgpt.com/images/codex/app/codex-app-basic-light.webp
+- assets/codex-browser.webp: https://learn.chatgpt.com/images/codex/app/in-app-browser-light.webp
+- assets/codex-automations.webp: https://learn.chatgpt.com/images/codex/app/codex-automations-light.webp
+
+Each figure links to its original-size local copy and the official source page. Surrounding Chinese text explains the visible controls. Historical model labels and menu names are explicitly marked version-dependent.
