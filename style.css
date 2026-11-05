@@ -4,3 +4,5 @@
 .diagram-link{display:block;text-align:right;font-size:11px}.diagram-link .diagram{margin-bottom:8px}@media(max-width:650px){aside{visibility:hidden}aside.open{visibility:visible}}
 
 .product-shot{margin:24px 0 36px;border:1px solid var(--line);background:var(--white)}.product-shot img{display:block;width:100%;height:auto}.product-shot figcaption{padding:20px;font-size:11px;line-height:1.9}.product-shot figcaption strong{font-size:14px}.product-shot figcaption p{font-size:13px;margin:10px 0}.product-shot figcaption small{display:block;margin-top:10px;color:var(--muted);font-size:10px}
+
+.annotated-shot{position:relative}.annotated-shot svg{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}.annotated-shot img{width:100%;height:auto}

@@ -21,3 +21,7 @@ Source page: https://learn.chatgpt.com/docs/changelog (historical 2026 app relea
 - assets/codex-automations.webp: https://learn.chatgpt.com/images/codex/app/codex-automations-light.webp
 
 Each figure links to its original-size local copy and the official source page. Surrounding Chinese text explains the visible controls. Historical model labels and menu names are explicitly marked version-dependent.
+
+## NSTC query screenshot
+
+Captured 2026-11-05 from the user-specified NSTC AwardMultiQuery URL, year=111 and organ=A,FA0H,FA0HDA06. assets/nstc-query.jpg preserves the browser screenshot. Inline SVG annotations mark the observed query controls and first report button; assets/nstc-query-annotated.svg embeds the same pixels plus vector labels for full-size viewing. No report was downloaded.
