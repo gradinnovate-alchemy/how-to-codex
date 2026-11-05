@@ -7,3 +7,5 @@
 研究 → 編輯 → 產圖 → 本機檢查 → GitHub Pages → 瀏覽器視覺檢查 → 修正。完成條件：公開網址成功、章節與互動可用、素材存在、來源可追溯。
 
 UI：米白紙面、炭黑側欄、橘色標記、襯線中文標題，桌面雙欄，手機可開合目錄。教學示意與真實截圖分開標示。圖片由內建 imagegen 生成，流程圖由 matplotlib 以 220 dpi 產生。
+
+2026-11-05 extension: add four research use cases as chapters 09–12, preserving existing chapter anchors and progress storage. Each has inputs, steps, outputs, acceptance criteria and a copyable task. Explain GRB availability and report versus application distinction, PDF evidence/page references, LaTeX submission-format constraints, S2 pagination and missing metadata. This is instructional content, not an actual grant/report-search task.

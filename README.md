@@ -1,6 +1,6 @@
 # How to Codex
 
-繁體中文 Codex 實作手冊，從第一次任務、Agent 概念、AGENTS.md、Skill 設計，到自動化、網路基礎與部署迴圈。
+12 章繁體中文 Codex 實作手冊，從第一次任務、Agent 概念、AGENTS.md、Skill 設計，到自動化、網路基礎與部署迴圈。
 
 - Website: https://gradinnovate-alchemy.github.io/how-to-codex/
 - 純 HTML/CSS/JS，無建置依賴。
@@ -36,3 +36,7 @@ OpenAI 舊 Codex 文件網址目前會導向部分上述頁面；本手冊有區
 5. 依真實畫面修正，更新 `docs/qa.md`。
 
 本次執行一個有完成條件的迴圈，沒有建立持續背景排程。
+
+## 研究用例
+
+新增 LaTeX 國科會計畫書與 PDF 輸出、GRB 歷年公開成果報告蒐集、PDF 證據分析、Semantic Scholar API 論文檢索。範例為操作說明，本次未實際蒐集報告、呼叫文獻搜尋 API 或製作申請文件。
